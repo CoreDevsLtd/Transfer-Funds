@@ -1,0 +1,15 @@
+{
+  "name": "demo-transfer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transfer": "env-cmd node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "env-cmd": "^10.1.0",
+    "web3": "^1.7.3"
+  }
+}
